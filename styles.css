@@ -1,0 +1,35 @@
+h4{
+  display:inline-block;
+  margin-right: 8px;
+  font-weight: 400;
+
+}
+p{
+  display: inline-block;
+}
+.dots{
+  margin-left: 185px;
+}
+.Cont1 h4{
+  background-color:#FFCCD2;
+  padding: 3px;
+  border-radius: 10px;
+}
+.Cont2 h4{
+  background-color:#F6D860;
+  padding: 3px;
+  border-radius: 10px;
+}
+.Cont3 h4{
+  background-color:#CDDEFF;
+  padding: 3px;
+  border-radius: 10px;
+}
+.newbutton{
+  width:421px;
+  margin: 3px;
+  text-align: left;
+}
+.hold{
+  display: none;
+}
